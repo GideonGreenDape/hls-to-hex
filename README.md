@@ -2,8 +2,7 @@
 
 This converts hsl color code to hex code for developers in the web
 
-```
-javascript 
+```javascript 
 
 Function testing()=>{
 const demand =4;
