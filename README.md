@@ -13,4 +13,4 @@ return demand * supply;
 
 ```
 
-This page was edited on[github website](http://www.github.com/en)
+This page was edited on [github website](http://www.github.com/en)
